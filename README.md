@@ -6,6 +6,8 @@ Pocket webhooks are described in the [developer online docs](https://docs.heypoc
 
 In this Amplify Fusion example project the verifier is implemented using a Java Service with whitelisted classes so it can run on shared data planes.
 
+The project also exposes an HTTP Client connector to the Pocket API and a test fow.
+
 ## Getting Started
 
 * Import the Amplify Fusion project export in this repo into your Fusion tenant
